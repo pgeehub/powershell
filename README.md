@@ -1,2 +1,2 @@
 # powershell
-Powershell profile
+Powershell scripts
